@@ -6,7 +6,7 @@ Here is Marcey's git file.
 Group members: Tim, Allen, David and Robert.
 
 
-Please add your names below as you access this file:
+Please add your file and then add your names below as you access this file:
 Marcey was Here!
 
 
